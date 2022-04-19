@@ -23,7 +23,7 @@ root
  |  |- Documentation
  |  |- Log
  |
- |- beschrijvingen < Mocht je snippets aan informatie willen opslaan zoals in het voorbeeld aangegeven
+ |- beschrijvingen < Mocht je kleine stukjes aan informatie willen opslaan.
 ```
 
 
