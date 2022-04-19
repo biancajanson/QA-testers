@@ -1,21 +1,14 @@
-# Example QA Testers
-A template repository for the QA Testers Training of TechGrounds.  
-This will be your home for storing your learning progress and your final project. At the end you will have a knowledge base of all the things you learned. And proof with the project you can start as a Tester.
+# QA Testers
+Een voorbeeld repository voor de QA Testers Opleiding van TechGrounds.
+Je kan een voorbeeld uitwerking van een opdracht vinden in de map Template.
 
-There are a few templates available for you to use. You will mainly be using the [Excersize template](../00_templates/excersize.md). You will fill the template with your own content and then commit it to your repository.
-
-An (incomplete) example of an exersize using this template can be found in [03_Cloud_1 about S3](./sprint_2/S3.md).
-
-You can also find some templates for your projects. These will be explained further when you start your project.
-
-This README.md is also for you. Rename this document and create a new README.md in your repository and fill it with an introduction of yourself.
 
 ## Organization is Key
-This repository shall be your knowledge base and portfolio. With all the exercises you will do and the results you will get it is easy to lose structure. Below is a an overview on how to structure your repository:
+Je repository zal uiteindelijk de plek zijn waar je al je uitgewerkte opdrachten en opgedane kennis in plaatst. Zorg ervoor dat je een consistente folder structuur aanmaakt. Hiermee help je ons, jezelf, en je collega's om elkaars werk te controleren en feedback te geven. Zoals je ziet zijn de mappen voor de eerste paar weken al aangemaakt.
 ```
 root
- |- 00_includes < A place for your screenshots
- |- 00_templates < A place you will find the templates
+ |- 00_includes < Plaats hier al je screenshots
+ |- 00_templates < Hier vind je de templates
  |
  |- 01 ISTQB
  |- 02 Functional Testing
@@ -30,56 +23,45 @@ root
  |  |- Documentation
  |  |- Log
  |
- |- descriptions < To prevent duplicate (inconsistent) descriptions you can use this folder and then link to it from your exercises.
+ |- beschrijvingen < Mocht je snippets aan informatie willen opslaan zoals in het voorbeeld aangegeven
 ```
-**It is vital that you use this folder structure for your exercises.** This will make it easier to find the exercises and the results and for your teammembers and learning coaches to check your content and provide feedback.
 
-As you can see the folders for the first few weeks are already made for you. Some of them will have an `.exist`-file. You can delete this file when you start filling them with your content.
-
-## Definition of Done
-Pushing the documentation to the repository is not the end of the assignment. We use 'the Four eyes' principle: this means that there should be two extra sets of eyes that validate and sign off your work before we consider it done. You will find the instructions for this in !!TODO!!
 
 ## MarkDown Tips
-**A complete cheatsheet can be found [here](https://devhints.io/markdown)**.
+**Een volledige cheatsheet vind je [hier.](https://devhints.io/markdown)**.
 
-### What isn't mentioned on the cheatsheet,
-But is important to know:
+### Wat daar niet op staat:
+Maar wel handig is om te weten:
 ```
-If·you·write·a·line·and·use·one·break.↩
-Github/Markdown·will·render·it·as·a·single·line.
-```
-If you write a line and use one break.
-Github/Markdown will render it as a single line.
+Als·je·een·regel·schrijft·en·je·gebruikt·één·enter.↩
+Dan·plaatst·Github/Markdown·je·tekst·op·één·regel.
 
-Use two breaks to make a paragraph.
 ```
-Paragraph·1↩
+Als je een regel schrijft en je gebruikt één enter. Dan plaatst GitHub/MarkDown je tekst op één regel.
+
+Gebruik dubbel enter om een nieuwe paragraaf te beginnen.
+```
+Paragraaf·1↩
 ↩
-Paragraph·2
+Paragraaf·2
 ```
-To only have a line break use a double space before you start a new line.
-
+Voor alleen een regelbreuk plaats je twee spaties aan het einde van de regel voor de enter.
 ```
-Line·1··↩
-Line·2
+Regel·1··↩
+Regel·2
 ```
-Line 1  
-Line 2
-### Formatting shortlist
-`[text](link)` is used to create links. Make certain that when you do link to a screenshot or another file, that you use relative paths.
+### Opmaak shortlist
+`[text](link)` is de manier om een link te maken. Als je naar andere bestanden in je repository verwijst, zorg dat de links relatief zijn.
 
-`#·text` will format to a level 1 heading `<h1>`.
+`#·text` geeft een titel opmaak `<h1>`.
 
-`##·text` will format to a level 2 heading `<h2>`.
-
-And so on.
-
+`##·text` geeft een kop level 1 opmaak `<h2>`.
 ```
-Text in `backquotes` will be formatted as code.
+Tekst in `backquotes` worden geformatteerd als code.
 ```
 
-`*text*` will format as *italic text*.  
-`**text**` will format as **bold text**.  
-`***text***` will be both ***italic and bold***.
+`*text*` geeft een *italic text*.  
+`**text**` geeft een **bold text**.  
+`***text***` geeft beide ***italic and bold***.
 
-Look at the source of this Readme!
+Kijk ook anders even naar de source van deze readme!
