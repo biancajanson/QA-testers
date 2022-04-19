@@ -1,4 +1,4 @@
-# Example QA Testers
+# QA Testers
 A template repository for the QA Testers Training of TechGrounds.  
 This will be your home for storing your learning progress and your final project. At the end you will have a knowledge base of all the things you learned. And proof with the project you can start as a Tester.
 
