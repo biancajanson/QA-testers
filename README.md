@@ -1,6 +1,6 @@
-# Example Cloud
-A template repository for the Cloud Training of TechGrounds.  
-This will be your home for storing your learning progress and your final project. At the end you will have a knowledge base of all the things you learned. And proof with the project you can start as a Cloud Engineer.
+# Example QA Testers
+A template repository for the QA Testers Training of TechGrounds.  
+This will be your home for storing your learning progress and your final project. At the end you will have a knowledge base of all the things you learned. And proof with the project you can start as a Tester.
 
 There are a few templates available for you to use. You will mainly be using the [Excersize template](../00_templates/excersize.md). You will fill the template with your own content and then commit it to your repository.
 
@@ -17,14 +17,15 @@ root
  |- 00_includes < A place for your screenshots
  |- 00_templates < A place you will find the templates
  |
- |- 01_Linux_1
+ |- 01 ISTQB
+ |- 02 Functional Testing
+ |- 03 Non-Functional Testing
+ |- 04 End to End Testing
+ |- 05 Selenium
+ |- 06 Java
+ | -07 Automated Testing
  |
- |- 02_Cloud_1
- |- 02_Cloud_2
- |- 02_Cloud_⋮
- |- 02_Cloud_6
- |
- |- 03_Project
+ |- 08_Eindproject
  |  |- Code
  |  |- Documentation
  |  |- Log
