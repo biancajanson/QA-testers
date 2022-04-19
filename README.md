@@ -4,7 +4,7 @@ Je kan een voorbeeld uitwerking van een opdracht vinden in de map Template.
 
 
 ## Organization is Key
-Je repository zal uiteindelijk de plek zijn waar je al je uitgewerkte opdrachten en opgedane kennis in plaatst. Zorg ervoor dat je een consistente folder structuur aanmaakt. Hiermee help je ons, jezelf, en je collega's om elkaars werk te controleren en feedback te geven.
+Je repository zal uiteindelijk de plek zijn waar je al je uitgewerkte opdrachten en opgedane kennis in plaatst. Zorg ervoor dat je een consistente folder structuur aanmaakt. Hiermee help je ons, jezelf, en je collega's om elkaars werk te controleren en feedback te geven. Zoals je ziet zijn de mappen voor de eerste paar weken al aangemaakt.
 ```
 root
  |- 00_includes < Plaats hier al je screenshots
