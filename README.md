@@ -4,8 +4,6 @@ This will be your home for storing your learning progress and your final project
 
 There are a few templates available for you to use. You will mainly be using the [Excersize template](../00_templates/excersize.md). You will fill the template with your own content and then commit it to your repository.
 
-An (incomplete) example of an exersize using this template can be found in [03_Cloud_1 about S3](./sprint_2/S3.md).
-
 You can also find some templates for your projects. These will be explained further when you start your project.
 
 This README.md is also for you. Rename this document and create a new README.md in your repository and fill it with an introduction of yourself.
