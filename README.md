@@ -1,10 +1,9 @@
 # QA Testers
 Een voorbeeld repository voor de QA Testers Opleiding van TechGrounds.
-Je kan een voorbeeld uitwerking van een opdracht vinden in de map 00_templates.
-
+Pas dit Readme bestand aan, stel jezelf hier kort voor en vertel wat je collega's of bijvoorbeeld een mogelijke werkgever in deze repository kan vinden. 
 
 ## Organization is Key
-Je repository zal uiteindelijk de plek zijn waar je al je uitgewerkte opdrachten en opgedane kennis in plaatst. Zorg ervoor dat je een consistente folder structuur aanmaakt. Hiermee help je ons, jezelf, en je collega's om elkaars werk te controleren en feedback te geven. Zoals je ziet zijn de mappen voor de eerste paar weken al aangemaakt.
+Je repository zal uiteindelijk de plek zijn waar je al je uitgewerkte opdrachten en opgedane kennis in plaatst. Zorg ervoor dat je een consistente folder structuur aanmaakt. Hiermee help je ons, jezelf, en je collega's om elkaars werk te controleren en feedback te geven. Zoals je ziet zijn de mappen al aangemaakt. In deze mappen staan de opdrachten al klaar die je gedurende de opleiding moet gaan maken.
 ```
 root
  |- 00_includes < Plaats hier al je screenshots
@@ -23,7 +22,7 @@ root
  |  |- Documentation
  |  |- Log
  |
- |- beschrijvingen < Mocht je kleine stukjes aan informatie willen opslaan.
+ |- beschrijvingen < Mocht je stukken theorie of definities van begrippen op willen slaan.
 ```
 
 
