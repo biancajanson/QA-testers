@@ -1,6 +1,6 @@
 # QA Testers
 Een voorbeeld repository voor de QA Testers Opleiding van TechGrounds.
-Je kan een voorbeeld uitwerking van een opdracht vinden in de map Template.
+Je kan een voorbeeld uitwerking van een opdracht vinden in de map 00_templates.
 
 
 ## Organization is Key
