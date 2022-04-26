@@ -5,13 +5,13 @@
 [Maak een lijst met sleutelwoorden met een korte beschrijving. Om herhaling te voorkomen kun je verwijzen naar voorgaande opdrachten.]
 
 ## Opdracht
-__De meest gebruikte vormen van Non-Functional Testen zijn:__
-* __Performance/Load Testing__
-* __Stress Testen__
-* __Failover Testen__
-* __Soak Testen__
-* __Security Testen__
-* __Usability Testen__
+__De meest gebruikte vormen van Non-Functional Testen zijn:
+* Performance/Load Testing
+* Stress Testen
+* Failover Testen
+* Soak Testen
+* Security Testen
+* Usability Testen__
 
 Zoek uit wat iedere vorm precies inhoudt, en werk dit uit. Schrijf het in je eigen woorden op per vorm in een paar regels.
 

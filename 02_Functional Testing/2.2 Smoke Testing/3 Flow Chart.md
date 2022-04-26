@@ -1,10 +1,14 @@
-# [Onderwerp]
+# [Flowchart]
 [Geef een korte samenvatting van het onderwerp.]
 
 ## Sleutelwoorden
 [Maak een lijst met sleutelwoorden met een korte beschrijving. Om herhaling te voorkomen kun je verwijzen naar voorgaande opdrachten.]
 
 ## Opdracht
+![Flowchart](../../00_includes/Smoke%20Testing-1.jpg)
+
+__De Flowchart hierboven laat zien hoe Smoke Tests worden uitgevoerd. Bekijk deze, onderzoek hoe dit werkt en leg dit in je eigen woorden uit.__
+
 ## Bronnen
 [Geef de bronnen weer die je gebruikt hebt om de opdracht te maken.]
 

@@ -5,13 +5,13 @@
 [Maak een lijst met sleutelwoorden met een korte beschrijving. Om herhaling te voorkomen kun je verwijzen naar voorgaande opdrachten.]
 
 ## Opdracht
-__Er zijn 6 meest gebruikte vormen van Functioneel Testen, namelijk:__
-* __Unit Testing__
-* __Smoke Testing__
-* __Sanity Testing__
-* __Regressie Testen__
-* __Integratie Testen__
-* __Acceptatietest__
+__Er zijn 6 meest gebruikte vormen van Functioneel Testen, namelijk:
+* Unit Testing
+* Smoke Testing
+* Sanity Testing
+* Regressie Testen
+* Integratie Testen
+* Acceptatietest__
 
 Zoek uit wat iedere vorm precies inhoudt, en werk dit uit. Schrijf het in je eigen woorden op per vorm in een paar regels.
 

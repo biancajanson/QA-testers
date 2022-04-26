@@ -1,10 +1,12 @@
-# [Onderwerp]
+# [Voordelen Smoke Testing]
 [Geef een korte samenvatting van het onderwerp.]
 
 ## Sleutelwoorden
 [Maak een lijst met sleutelwoorden met een korte beschrijving. Om herhaling te voorkomen kun je verwijzen naar voorgaande opdrachten.]
 
 ## Opdracht
+__Wat zijn de voordelen van Smoke Testing? Zoek dit uit en werk dit in je eigen woorden uit.__
+
 ## Bronnen
 [Geef de bronnen weer die je gebruikt hebt om de opdracht te maken.]
 
