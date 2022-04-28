@@ -6,11 +6,11 @@
 
 ## Opdracht
 __Er zijn 5 soorten Performance Testing, namelijk:__
-*__Load Testing__
-*__Stress Testing__
-*__Volume Testing__
-*__Capacity Testing__
-*__Reliability/Recovery Testing__
+* __Load Testing__
+* __Stress Testing__
+* __Volume Testing__
+* __Capacity Testing__
+* __Reliability/Recovery Testing__
 
 __Zoek uit wat iedere soort  van Performance Testing inhoudt, en werk dit uit. Schrijf dit per vorm in je eigen woorden op in een paar regels.__
 
