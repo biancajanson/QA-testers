@@ -1,10 +1,12 @@
-# [Onderwerp]
+# [Samenvatting]
 [Geef een korte samenvatting van het onderwerp.]
 
 ## Sleutelwoorden
 [Maak een lijst met sleutelwoorden met een korte beschrijving. Om herhaling te voorkomen kun je verwijzen naar voorgaande opdrachten.]
 
 ## Opdracht
+__Schrijf een samenvatting uit wat jij verstaat onder Penetration Testing.__
+
 
 ## Bronnen
 [Geef de bronnen weer die je gebruikt hebt om de opdracht te maken.]
